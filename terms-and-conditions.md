@@ -14,12 +14,16 @@ _Last updated 17 November 2026._
 5. **Club names and logos.** Club names and logos belong to their respective owners. The app displays them only to
    identify the teams in a match and the club the app is made for. The app is not affiliated with, or endorsed by, AFC Ajax, ESPN, Reddit, or any other
    club, league, competition or data provider.
-6. **Reddit.** Use of the app is also subject to Reddit's
+6. **Photos.** The background photos in the app are the developer's own or are used with their owners' permission.
+   They may show club logos, sponsor names, the stadium and its name, and people in the crowd; this does not mean that
+   any of them endorse the app. Anyone who appears in a photo or holds rights in one can ask for it to be removed
+   through the contact below, and it will be removed in the next update of the app.
+7. **Reddit.** Use of the app is also subject to Reddit's
    [User Agreement](https://www.redditinc.com/policies/user-agreement) and the
    [Devvit Rules](https://developers.reddit.com/docs/devvit_rules).
-7. **Privacy.** See the Privacy Policy for what the app stores.
-8. **Law.** These terms are governed by Dutch law.
-9. **Changes.** These terms may change. The current version is the one linked from the app's page on
+8. **Privacy.** See the Privacy Policy for what the app stores.
+9. **Law.** These terms are governed by Dutch law.
+10. **Changes.** These terms may change. The current version is the one linked from the app's page on
    developers.reddit.com.
 
 ## Contact

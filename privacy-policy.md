@@ -15,6 +15,9 @@ It is developed and run by u/BananaPoa ("the developer"), who is responsible for
   username of the moderator who created a match post is also kept with that match post's settings. Both are stored in
   the app's storage on Reddit's Developer Platform.
 - **Club logos:** images of club logos, stored on Reddit.
+- **Background photos:** a small, fixed set of photos of the stadium and its crowd is part of the app and shown behind
+  the score. People in the crowd may be recognisable in some of them. The app holds nothing else about them: no names,
+  and it does not try to identify anyone.
 
 When someone uses the app's moderator tools, the app checks with Reddit whether that person is a moderator. The
 result of that check is not stored.
@@ -51,7 +54,8 @@ handles information when you view or interact with the app's posts.
 ## Your rights
 
 You can ask to see the data the app holds about you, to have it corrected or deleted, or object to it being kept. Send
-your request through the contact below. If you are not satisfied with the answer, you can complain to a data protection
+your request through the contact below. If you can be recognised in one of the background photos and want it taken
+out, ask the same way; the photo is removed in the next update of the app. If you are not satisfied with the answer, you can complain to a data protection
 authority; in the Netherlands that is the [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/).
 
 ## Changes
