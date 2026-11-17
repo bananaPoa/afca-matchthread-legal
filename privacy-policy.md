@@ -1,17 +1,19 @@
 # Privacy Policy: afca-matchthread
 
-_Last updated 2 November 2026._
+_Last updated 17 November 2026._
 
 afca-matchthread ("the app") is a Reddit app that shows live football match information in posts on r/ajaxamsterdam.
 It is developed and run by u/BananaPoa ("the developer"), who is responsible for the data described below.
 
 ## What the app stores
 
-- **Match data:** match details (teams, kickoff time, venue, score, goals, cards) obtained from public football data,
-  and the settings of each match post. This is not personal data.
+- **Match data:** match details (teams, kickoff time, venue, score, goals, cards, team statistics and the top
+  performers of a match, with the players' names as published) obtained from public football data, and the settings of
+  each match post and post-match post. This is not data about Reddit users.
 - **Moderator usernames:** when a moderator creates, changes or deletes a match post, the app records that moderator's
-  Reddit username and the time of the action in the app's activity log, so moderators can see who did what. This is
-  stored in the app's storage on Reddit's Developer Platform.
+  Reddit username and the time of the action in the app's activity log, so moderators can see who did what. The
+  username of the moderator who created a match post is also kept with that match post's settings. Both are stored in
+  the app's storage on Reddit's Developer Platform.
 - **Club logos:** images of club logos, stored on Reddit.
 
 When someone uses the app's moderator tools, the app checks with Reddit whether that person is a moderator. The
@@ -32,6 +34,7 @@ Protection Regulation (GDPR).
 ## How long it is kept
 
 - In the activity log: entries are removed automatically after 30 days, and only the most recent 300 entries are kept.
+- With a match post's settings: until a moderator deletes that match post through the app's moderator tools.
 
 ## External services
 
